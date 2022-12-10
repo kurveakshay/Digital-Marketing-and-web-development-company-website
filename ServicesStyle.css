@@ -1,0 +1,46 @@
+body {
+  font-family: 'Nunito', sans-serif;
+
+}
+
+.section-title {
+  margin-bottom: 30px;
+  text-align: center;
+}
+.section-title h2 {
+  font-size: 48px;
+  font-weight: 700;
+}
+.service-section {
+  padding: 70px;
+}
+.single-service {
+  text-align: left;
+  padding: 40px;
+  margin-bottom: 30px;
+  box-shadow: 0px 0px 20px #f1f1f1;
+  transition: .5s;
+}
+.single-service:hover {
+  box-shadow: 0px 30px 50px 0px rgba(0, 0, 29, 0.1);
+  transform: translateY(-5px);
+}
+.single-service i {
+  font-size: 70px;
+  color: #fa0a48;
+  margin-bottom: 10px;
+}
+.single-service h3 {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.single-service p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #777;
+}
+h3{
+  color: orange;
+
+}
